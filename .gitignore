@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+asr/
+nltk_env/
+.venv/
+
+# Hugging Face / ML
+.cache/
+huggingface/
+*.safetensors
+*.bin
+
+# Data & models
+data/
+temp_uploads/
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
